@@ -1,0 +1,12 @@
+name: qb-cfg-explanatory-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - pip
+  - pip:
+    - nbgitpuller
+    - pandas
+    - matplotlib
+    - xlrd
