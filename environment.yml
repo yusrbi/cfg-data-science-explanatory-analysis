@@ -10,3 +10,7 @@ dependencies:
     - pandas
     - matplotlib
     - xlrd
+    - seaborn
+    - numpy
+    - sklearn
+    - scipy
